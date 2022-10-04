@@ -1,3 +1,11 @@
+Nomes:
+Engel
+Hasan Al Zaibak
+HENRY LUNA
 Novas mudanças
-Jose betancourt
+<<<<<<< HEAD
+Jose betancourt.
+=======
+Hasan Al Zaibak
+>>>>>>> b2d7b9d015f617e68f45efd6acca3acb0986f51b
 
