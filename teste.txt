@@ -1,3 +1,8 @@
 Nomes:
 Engel
+<<<<<<< HEAD
 Walter Lopes Cassule
+=======
+Hasan Al Zaibak
+Toya
+>>>>>>> 5856029567f6ea8b64f761cfc9d68f7befeb75be
